@@ -1,3 +1,16 @@
 CheatSheet Git Github
 
 git init: sirve para inicializar un repositorio.
+git status : muestra archivos modificados en el directorio de trabajo, preparado para su próxima confirmación.
+git add [file] : agrega un archivo como se ve ahora para su próxima confirmación (etapa).
+git add . : agrega todos los cambios.
+git commit -m “[mensaje descriptivo]”:  comitea los cambios y agrega mensaje.
+
+git clone [url] : copia/clona un repositorio completo desde una ubicación alojada a través de URL.
+git branch : enumera las ramas, aparecerá un * junto a la rama actualmente activa.
+git branch [nombre rama] : crea una nueva rama en el commit actual.
+git checkout [nombre rama] : cambia a otra rama.
+git log : muestra todos los commits en el historial de la rama actual.
+git merge [nombre rama] : fusiona el historial de la rama especificada con el actual.
+git push origin [nombre rama] : Transmite commits de la rama local a la rama del repositorio remoto.
+git pull : obtiene y fusiona cualquier commit de la rama remota de seguimiento.
