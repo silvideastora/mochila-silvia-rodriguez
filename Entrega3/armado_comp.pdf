@@ -1,0 +1,79 @@
+Armado de Computadoras
+
+GAMA BAJA: Son Utilizados por personas que necesitan pocos requisitos.
+
+---GAMA BAJA: Intel---
+
+Procesador: Core i3 7100
+Placa madre: ASUS TUF B360M-PLUS
+Memoria Principal: Memoria RAM Kingston KVR26N19S8/8 DDR4 -8 GB- 2666Mhz
+Memoria Secundaria: SSD 240GB Adata SU630
+
+---GAMA BAJA: AMD---
+
+Procesador: Ryzen 3 2200g
+Placa madre: ASUS X570 Crosshair VIII Hero
+Memoria Principal: 128GB, DDR4, 3200(O.C.)/2933/2800/2400/2133 MHz
+Memoria Secundaria: SSD Western Digitsl WD Green, 1tB, SATA III, 2.5", 7mm
+
+---GAMA BAJA: A libre criterio del estudiante ---
+
+Procesador: AMD Ryzen 3 3200G, Es un procesador de cuatro núcleos con gráficos integrados Radeon Vega 8
+Placa madre: ASRock B450M-HDV, Es una placa madre económica que soporta procesadores AMD Ryzen. 
+Memoria Principal: Corsair Vengeance LPX 8GB DDR4 2666MHz
+Memoria Secundaria: Kingston A2000 NVMe PCIe M.2 500GB
+
+
+
+GAMA MEDIA: son utilizados por personas un poco mas exigentes,por ejemplo con VScode, Mysql, puede llegar GPU.
+
+---GAMA MEDIA: Intel---
+
+Procesador: Core i7 10700
+Placa madre: Chipset Intel H370
+Memoria Principal: Memoria RAM DDR4 16 GB
+Memoria Secundaria: Disco duro 1 TB y 128 de SSD
+GPU: GeForce GT 1030 2GD4 LP OC
+
+---GAMA MEDIA: AMD---
+
+Procesador: AMD Ryzen 5 3600
+Placa madre: A320M Asrock
+Memoria Principal: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200
+Memoria Secundaria: Kingston A2000 500GB NVMe.M2 SSD
+GPU: AMD Radeon RX 5600 XT
+
+---GAMA MEDIA: A libre criterio del estudiante---
+
+Procesador: AMD Ryzen 5 5600X , es un procesador de seis núcleos y doce hilos
+Placa madre: MSI B550 Tomahawk
+Memoria Principal: Corsair Vengeance RGB Pro 16GB (2x8GB) DDR4 3200MHz
+Memoria Secundaria: Samsung 970 EVO Plus NVMe M.2 500GB
+GPU: NVIDIA GeForce GTX 1660 Super
+
+
+GAMA ALTA: Son esos equipos que requieren las mejores prestaciones del mercado,para mineria de datos, big data o gaming.
+
+---GAMA ALTA: Intel---
+
+Procesador: Core i9-11900k
+Placa madre: ASUS ROG Strix Z490-E Gaming
+Memoria Principal: G.Skill Trident Z Royal DDR 4 3600 32GB(4 x 8gb)
+Memoria Secundaria: SSD M2 Samsung 980 PRO 2TB
+GPU: ASUS ROG Strix GeForce RTX 4090 24Gb GDDR6X
+
+---GAMA ALTA: AMD---
+
+Procesador: AMD Ryzen 7 5700G
+Placa madre: GIGABYTE GA-A320M-S2H AM4
+Memoria Principal: 2 x 16GB Memoria Kingston FURY Beast DDR4 RGB
+Memoria Secundaria: Samsung 980 PRO PCle. 4.0 x4 M.2 Internal SSD
+GPU: NVIDIA GTX 1650
+
+---GAMA ALTA: A libre criterio del estudiante---
+
+Procesador: Intel Core i9-10900K: Es un procesador de gama alta con 10 núcleos y 20 hilos.
+Placa madre: ASUS ROG Maximus XII Hero, con socket LGA1200 compatible con los procesadores Intel de 10ª generación
+Memoria Principal: Corsair Dominator Platinum RGB 32GB (2x16GB) DDR4 3600MHz
+Memoria Secundaria: Samsung 970 EVO Plus NVMe M.2 1TB, un SSD M.2 de alta velocidad 
+GPU: NVIDIA GeForce RTX 3080, las mas potente del mercado.
