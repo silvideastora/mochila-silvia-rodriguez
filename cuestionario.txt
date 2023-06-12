@@ -1,0 +1,17 @@
+1.Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+Por varias razones:
+Compilacion: sino se utiliza un sistema compilador para un sistema operativo en particular el lenguaje no podra ser utilizado en ese sistema
+Bibliotecas y APIs: sino hay acceso a las bibliotecas o apis tampoco podra acceder.
+Dependencias del SO: Algunos lenguajes dependen de caracteristicas o servicios en particular.
+Portabilidad: Puede haber peque;as diferencias o limitaciones en la forma que se comporta un lenguaje
+
+
+2. Que tipo de maquina virtual es VB?
+
+Es una aplicacion de software que proporciona una plataforma de virtualizacion. Que permite crear y ejecutar maquinas virtuales en un sistema operativo host.
+
+
+3. Si tengo mas de una mv instalada y una se rompe, esto afecta a las demas? por que?
+NO afecta, ya que virtual box crea un entorno virtualizado para cada maquina lo que proporciona aislamiento entre ellas.
+
+
