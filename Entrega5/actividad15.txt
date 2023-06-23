@@ -1,0 +1,8 @@
+POr que un lenguaje de programacion puede utilizarse en algunos sistemas operativos y en otros no?
+Res: Pueden estar determinadas por diferencias tecnicas, dependencias especificas del sistema y decisiones de diseno.
+Que tipo de maquina virtual es virtual box?
+Res:Es un porgrama que permite crear y ejecutar maquinas virtuales en las que se pueden instalar y ejecutar diferentes sistemas operativos.
+
+Si tengo mas de una maquina virtual instalada y una se rompe, esto afecta a las demas? porque?
+Res:Las demas quedan operativas ya que no comparten recursos o dependencias directas entre si.
+ñ
